@@ -6,5 +6,22 @@
         "preço": 907.0,
         "descrição": "4 de memoria ram",
         "categoria": "celular"
+    },
+    {
+        "ID": 293712,
+        "nome": "Notebook Dell Dc15-c3100-a20 15.6 Fhd Core3 8gb 512gb",
+        "quantidade": 35,
+        "preço": 3.999,
+        "descrição": "Processador Intel 3 100U",
+        "categoria": "notebook"
+    },
+    {
+        "ID": 506767,
+        "nome": "Apple iPad (9ª geração) 10.2\" Wi-Fi 256GB",
+        "quantidade": 20,
+        "preço": 3.29,
+        "descrição": "capacidade de 256 GB",
+        "categoria": "tablet",
+        "imagem": "uploads/fe8d281d0d594fb29febce6b4b94a1a1.webp"
     }
 ]
